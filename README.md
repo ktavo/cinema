@@ -1,2 +1,0 @@
-# cinema
-Laravel course cinema
